@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Example content - I guess I will c&p from here a lot
+title: Example content
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  This is an example blog post that shows several types of HTML content supported in this theme. 
 </div>
+
+**I guess I will c&p from here a lot**
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
