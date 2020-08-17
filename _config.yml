@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Experimental Website
+tagline: build with Jekyll / Poole
+url: https://maxmeier20.github.io/poole/
 paginate: 1
 baseurl: "https://maxmeier20.github.io/poole/"
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Max Meier
+  url: https://uhr.ptb.de
+  email: n@n.com
 
 # Custom vars
 version: 3.0.0
