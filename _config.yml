@@ -3,7 +3,7 @@ title: Experimental Website
 tagline: build with Jekyll / Poole
 url: https://maxmeier20.github.io/poole/
 paginate: 1
-baseurl: "https://maxmeier20.github.io/poole/"
+baseurl: "https://maxmeier20.github.io/poole"
 permalink: pretty
 
 # Gems
